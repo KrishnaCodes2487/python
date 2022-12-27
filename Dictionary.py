@@ -1,0 +1,2 @@
+D={}
+print(type(D))

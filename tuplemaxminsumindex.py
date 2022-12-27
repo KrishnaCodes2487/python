@@ -1,0 +1,6 @@
+T=(1,3,17,52,69,23,56,3,79,8)
+print(T.index(52))
+print(T.count(3))
+print(max(T))
+print(min(T))
+print(sum(T))
